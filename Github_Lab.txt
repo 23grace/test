@@ -1,0 +1,42 @@
+
+        ----------
+        | GITHUB |
+        ----------
+________________________________
+
+To Do:
+
+(1) Create a Github Account  
+    --> Open Github on browser
+    --> Click on sign up 
+        - Enter your email address
+        - Create a password
+        - Enter a username
+        - Verify account and create
+
+Once your Github account is created;
+
+(2) Create a Repository
+    - Enter a repository name
+    - Check for Public Repository
+    - Check for Add a README file
+
+(3) Create a new file
+    - Create a file called test.txt
+    - Edit new file
+    - Commit new file
+
+(4) Install Github on Desktop 
+    (the setup will be on the ftp server,
+     download from there and install)
+
+(5) Sign in on Github Desktop and clone your repository
+    To Clone:
+     - Go to current repository
+     - Add and clone repository
+     - Choose the path that you want your files to be stored 
+       on locally and clone
+    Once the cloning is done, go to your local directory and 
+    and check to see that you have the test file there. It is 
+    a .txt file so you should be able to view the contents on
+    Notepad
